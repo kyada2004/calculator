@@ -1,0 +1,5 @@
+customtkinter
+
+
+#this file in install pip install -n reqierment.txt this command to file resouce dowland 
+#this code in python  3.11.9 version using in this code 
